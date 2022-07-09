@@ -7,7 +7,7 @@ import java.io.*;
 
 public class parseCSV {
     public static void main(String[] args) throws Exception{
-        String file = "sample_file_1.csv";
+        String file = "sample_file_1.csv"; //modify this as per the files tested
         String file2 = "sample_file_2.csv";
 
         String delimiter = ",";
@@ -39,7 +39,8 @@ public class parseCSV {
         } catch (Exception e){
             System.out.println(e);
         }
-        File write = new File("output_1_and_2.csv");
+        //modify this to create your own file. 
+        File write = new File("output.csv"); //modify the file name here to create your own file when testing. 
         FileWriter filewrt = new FileWriter(write,true);
         BufferedWriter buffwrite= new BufferedWriter(filewrt);
         buffwrite.write("Account No , Currency , Type ,Balance");
