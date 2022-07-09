@@ -1,11 +1,9 @@
-<strong>SweynTooth - ESC MINI CAMPAIGN WEEK 8<strong>
+<strong>ESC MINI CAMPAIGN WEEK 8
 
 Name: Parwani Jayati 
 Student ID: 1005622 
 
-This is my esc mini campaign week 8 files. 
-
-  </strong>
+This is my esc mini campaign week 8 files. </strong>
  
   <h3>About and How to Access </h3>
  
