@@ -1,4 +1,5 @@
-# esc_mini_campaign-
+<strong>SweynTooth - Unleashing Mayhem over Bluetooth Low Energy<strong>
+
 Name: Parwani Jayati 
 Student ID: 1005622 
 
