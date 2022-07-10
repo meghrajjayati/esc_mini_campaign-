@@ -11,7 +11,7 @@ This is my esc mini campaign week 8 files. </strong>
  The use case diagram is in the file use_cases. 
 
     Clone the repo and compile and run parseCSV.java (main method) in your preferred JAVA IDE. Although sample files are provided in the folder,if you wish to modify the files then modify the following lines by adding your desired csv files in line 10 and 11.</p>
-  <p>
+  
   <code>String file = "sample_file_1.csv";</code> <br />
  <code> String file2 = "edit to add your own file";</code>
  </p>
