@@ -13,9 +13,8 @@ This is my esc mini campaign week 8 files. </strong>
     
     String file = "sample_file_1.csv"
     String file2 = "edit to add your own file";
-    </p>
   
-  <code>Clone the repo and compile and run parseCSV.java (main method) in your preferred JAVA IDE. Although sample files are provided in the folder,if you wish to modify the files then modify the following lines by adding your desired csv files in line 10 and 11. <br />
+  <code>Clone the repo and compile and run parseCSV.java (main method) in your preferred JAVA IDE. Although sample files are provided in the folder,if you wish to modify the files then modify the following lines by adding your desired csv files in line 10 and 11 abovw. <br />
  </p>
  <p> The output after compiling and running parseCSV should be stored in output.csv file which is added to homework folder when you run the code. However, if you wish to modify the file name, simply modify the line 42 shown below </p>
  <p>
