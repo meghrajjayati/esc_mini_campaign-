@@ -26,3 +26,8 @@ Access Week 9 report link here:
 https://sutdapac-my.sharepoint.com/:w:/g/personal/jayati_parwani_mymail_sutd_edu_sg/EdVIePC9lG5Oi3EACftrx7oB4POcopP3KMEB5sopGHokgg?e=YAjEji
 
  
+Access week 10 tests
+Testing documentation: esc-week10tests.pdf in main branch 
+Code: week_10_tests folder, parseCSV.java- updated code to account for tests and exceptions, run as previously described in the above section. 
+To access tests go to parseCSVTest.java
+Run each test or run all, ensure you have Junit 4, intsalled. 
