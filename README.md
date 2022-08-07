@@ -76,7 +76,8 @@ Run each test or run all, ensure you have Junit 4, intsalled.
 </li>
 </ul>
 <p> The tests have been automated, if updates to upper-bounds are required, for the random length of string, they can be manually set in <code>public static String[] random_string())</code> method. </p> 
-<p> To change the upper bound to the number of random iterations, you need to updated <code>public static void mutated_fuzzing(String file1,ArrayList<List> input_list)</code>
+<p> To change the upper bound to the number of random iterations, you need to updated <code>public static void mutated_fuzzing(String file1,ArrayList<List> input_list)
+ </code>
  
 
 
