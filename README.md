@@ -52,7 +52,7 @@ Run each test or run all, ensure you have Junit 4, intsalled.
 <code>mutated_fuzzing</code> fuzzes the code with a csv with random inputs but same dimensions as the csv which is prompted for input by the third party. The test is then run a random number of iterations, in this case the upper bound is set to 10, but can be varied. 
  </li>
  <li>
-<code>mutated_fuzzing)identical</code> fuzzes the code with 2 identical csvs, for random number of iterations, in this case the upper bound is set to 10, but can be varied. 
+<code>mutated_fuzzing_identical</code> fuzzes the code with 2 identical csvs, for random number of iterations, in this case the upper bound is set to 10, but can be varied. 
 </li>
 </ol>
 <h3>How to run</h3>
