@@ -4,9 +4,13 @@ Name: Parwani Jayati
 Student ID: 1005622 
 
 
-This is my esc mini campaign week 8 files. </strong>
+This is my esc mini campaign  files. </strong>
+
  
-  <h2>About and How to Access (week 8- code has been updated- look below in Mutated Fuzzer Section)</h2>
+  <h2>About and How to Access </h2>
+  
+  <strong> <p> The code in <code> parseCSV.java</code> has been updated to account for refactoriing and bug fizzing upon mutation fuzzer testing. Please access  <code> parseCSV.java </code> software through week_12_buzzer folder and </strong><i>  Mutation Fuzzer to Create Random CSV Files in the section below in this document</i> <strong>for further instructions </strong>. 
+  </strong>
  
   <p>This repo contains the homework folder, with parseCSV.java which implements the main method. The folder also contains sample csvs 1,2,3 and the outputs obtained comapring csv 1 and 2, and csv 1 and 3. These csv files are also in the homework folder.  
  The use case diagram is in the file use_cases. 
@@ -36,12 +40,12 @@ Run each test or run all, ensure you have Junit 4, intsalled.
 
 
 
-<h3> Mutation Fuzzer to Create Random CSV Files <h3>
+<h2> Mutation Fuzzer to Create Random CSV Files <h2>
 
 
-<h1>About</h1>
+<h3>About</h3>
 <p>The files in <code>mutatefuzzing.java</code> provide mutation-based fuzzing testing 
-  for  <code>parseCSV.java</code> in week11_tests folder.</p>
+  for  <code>parseCSV.java</code> in week_12_buzzer folder.</p>
 <p><code>mutatefuzzing</code> object needs an input  CSV file and generates a csv file of the same dimension and with the same header required by the software. This generated CSV file contains every row of randomly created string whose upper bound can be set by the client. The purpose of both the tests in the functions <code>mutated_fuzzing</code> and <code>mutated_fuzzing_identical</code> in <code>mutatefuzzing.java</code> is to fuzz the two input files required in <code>parseCSV.java</code>. 
 <ol>
 <li>
@@ -54,10 +58,10 @@ Run each test or run all, ensure you have Junit 4, intsalled.
 <h3>How to run</h3>
 <ul> 
 <li>
-<p>Upon compiling <code>parseCSV.java</code> you will be prompted to enter two file paths in the week_11 tests folder. Please do enter valid paths, if you however enter invalid paths or files, excpetions have been handled appropriately and where required to compile and run again. </p>
+<p>Upon compiling <code>parseCSV.java</code> you will be prompted to enter two file paths in the week_12_buzzer folder folder. Please do enter valid paths, if you however enter invalid paths or files, excpetions have been handled appropriately and where required to compile and run again. </p>
 </li>
 <li>
-<p>Upon compiling <code>mutatefuzzing.java</code> you will be prompted to enter one file paths in the week_11 tests folder. Please do enter valid paths, if you however enter invalid paths or files, excpetions have been handled appropriately and where required to compile and run again. </p>
+<p>Upon compiling <code>mutatefuzzing.java</code> you will be prompted to enter one file paths in the week_12_buzzer folder folder. Please do enter valid paths, if you however enter invalid paths or files, excpetions have been handled appropriately and where required to compile and run again. </p>
 </li>
 </ul>
 
